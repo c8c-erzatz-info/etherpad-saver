@@ -1,1 +1,6 @@
+# backup files
 *~
+
+# actual config files
+pad_list.conf
+etherpad_saver.conf
